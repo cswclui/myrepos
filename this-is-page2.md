@@ -1,7 +1,5 @@
 # This is page2 modified from gitbook
 
-## Getting Super Powers 2222
-
 ## Getting Super Powers
 
 ## this is a new sentence from github
